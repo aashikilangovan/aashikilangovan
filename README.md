@@ -1,7 +1,8 @@
-![codegif](https://user-images.githubusercontent.com/92137985/201600969-a18e851e-e2de-4850-b330-15351fd5694a.gif)
-- 👋 Hi, I’m Aashik, a student at the University of Calgary
-- 👀 I’m currently majoring in Software Engineering and minoring in Entrepreneurship and Enterprise
-- 🌱 Experience in Java, C, C++
+
+**Hi I’m Aashik! Pleasure to meet you!😁**
+<img src="https://thumbs.gfycat.com/MintyAnyGrouse-max-1mb.gif" width="100" height="100"/> 
+- 👀 I’m currently majoring in Software Engineering and minoring in Entrepreneurship and Enterprise at the University of Calgary!
+- 🌱 CurrentProgramming Experience in Java, C, C++
 - 💞️ I’m looking foward to working with you
 - 📫 You can reach me at aashikilangovan@gmail.com
 
