@@ -1,5 +1,7 @@
 
-**Hi I’m Aashik! Pleasure to meet you!** This is my buddy pikachu, he says hi too! -->
+**Hi I’m Aashik! Pleasure to meet you!** 
+
+*This is my buddy pikachu, he says hi too! -->*
 <img src="https://thumbs.gfycat.com/MintyAnyGrouse-max-1mb.gif" width="100" height="100"/> 
 - 👀 I’m currently majoring in Software Engineering and minoring in Entrepreneurship and Enterprise at the University of Calgary!
 - 🌱 Current Programming Experience in Java, C, C++ as well some python and C#
