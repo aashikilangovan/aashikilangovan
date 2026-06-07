@@ -1,6 +1,6 @@
 
 **Hi I’m Aashik! Pleasure to meet you!** 
-- 👀 I’m currently a Master of Management student who previously majoredg in Software Engineering and minored in Entrepreneurship and Enterprise at the University of Calgary!
+- 👀 I’m currently a Master of Management student who previously majored in Software Engineering and minored in Entrepreneurship and Enterprise at the University of Calgary!
 - 💞️ Passionate Learn, Create and Develop my skills and myself 😁
 - 📫 I’m looking foward to working with you! You can reach me at aashikilangovan@gmail.com or reach me at Linkedin (www.linkedin.com/in/aashiki)
 <!---
