@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=F7A81B&center=true&vCenter=true&width=780&lines=Hi+there%2C+I'm+Aashik+%F0%9F%91%8B;Software+Engineer+%7C+Builder+%7C+Lifelong+Learner;MM+%26+B.Sc.+Software+Engineering+%40+UCalgary;Currently+shipping+things+at+U+Technology+Corp+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=F7A81B&center=true&vCenter=true&width=780&lines=Hi+there%2C+I'm+Aashik+%F0%9F%91%8B;Software+Engineer+%7C+Music and Art Lover +%7C+Geek;MM+%26+B.Sc.+Software+Engineering+%40+UCalgary;Currently+developing+things+at+U+Technology+Corp+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aashikilangovan.github.io-F7A81B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aashikilangovan.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aashiki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashiki/)
