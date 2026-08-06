@@ -12,11 +12,11 @@
 
 <div align="center">
 
-### ✨ psst — my full portfolio lives here ✨
+### ✨ psst my full portfolio lives here ✨
 
 ## [**aashikilangovan.github.io**](https://aashikilangovan.github.io) 🐾
 
-*(there's a cat mascot hanging out in the corner over there — go say hi)*
+*(there's a cat mascot hanging out in the corner over there pls go say hi)*
 
 </div>
 
@@ -25,8 +25,8 @@
 ### 👋 About Me
 
 - 🎓 Master of Management + B.Sc. Software Engineering, University of Calgary (minor in Entrepreneurship & Enterprise)
-- 💼 Junior Software Engineer @ **U Technology Corp**, building a full-stack specification management platform (Next.js, React, PostgreSQL, TypeScript)
-- 🌱 I like blending hands-on dev with a business-analyst's eye for process and stakeholders
+- 💼 Junior Software Engineer @ **U Technology Corp**, building full-stack applications (Next.js, React, PostgreSQL, TypeScript)
+- 🌱 I like music and art and football (soccer) and basketball and anime and games and a bunch of other things too
 
 ---
 
