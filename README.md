@@ -6,6 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aashiki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashiki/)
 [![Email](https://img.shields.io/badge/Email-aashikilangovan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashikilangovan@gmail.com)
 
+[![Resume (Software)](https://img.shields.io/badge/Resume-Software-F7A81B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://aashikilangovan.github.io/images/resume-software.pdf)
+[![Resume (Business)](https://img.shields.io/badge/Resume-Business-F7A81B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://aashikilangovan.github.io/images/resume-business.pdf)
+
 </div>
 
 ---
